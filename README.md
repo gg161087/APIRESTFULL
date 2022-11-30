@@ -1,0 +1,6 @@
+# APIRESTFULL
+PORT = 5000
+ENVIRONMENT = 'development'
+DB_NAME=db_sc 
+DB_USERNAME=root
+DB_PASSWORD=''
