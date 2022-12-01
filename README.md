@@ -1,4 +1,5 @@
-# APIRESTFULL
+# APIRESTFULL, npm init -y, npm install express --save
+Create .env:
 PORT = 5000
 ENVIRONMENT = 'development'
 DB_HOST=localhost

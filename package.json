@@ -1,7 +1,7 @@
 {
   "name": "apirestfull",
   "version": "1.0.0",
-  "description": "",
+  "description": "PORT = 5000\r ENVIRONMENT = 'development'\r DB_HOST=localhost\r DB_NAME=db_articulos \r DB_USERNAME=root\r DB_PASSWORD=''",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
